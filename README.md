@@ -24,7 +24,7 @@ AVATAR_V1_TEST/
 │   ├── avatar_renderer.py     # Image handling
 │   ├── image_gen.py           # Image generation via model or static fallback
 │   ├── llm_interface.py       # LLM pipeline (LangChain or local)
-│   ├── stt.py                 # (Optional) Speech-to-text placeholder
+│   ├── stt.py                 # Speech-to-text placeholder
 │   ├── tts.py                 # Coqui TTS integration
 │
 ├── ui/
