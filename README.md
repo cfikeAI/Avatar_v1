@@ -40,4 +40,3 @@ AVATAR_V1_TEST/
 ├── requirements.txt       # All Python dependencies
 ├── run.bat                # Windows launch script
 ├── main.py                # Entry point
-└── test.py                # Local debug script
