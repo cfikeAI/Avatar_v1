@@ -34,3 +34,6 @@ test.py
 
 # Ignore Gradio session state if auto-generated
 gradio_cached_examples/
+
+# Ignore batch files
+*.bat
