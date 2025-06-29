@@ -1,0 +1,36 @@
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ignore virtual environment
+venv310/
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ignore user/session/output data
+session_output/
+results/
+*.wav
+*.mp4
+*.png
+*.jpg
+*.jpeg
+
+# Ignore model output and checkpoints
+SadTalker/
+gfpgan/
+
+# Ignore temporary or test files
+*.tmp
+*.log
+test.py
+
+# Ignore Gradio session state if auto-generated
+gradio_cached_examples/
